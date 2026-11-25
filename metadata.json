@@ -1,0 +1,6 @@
+{
+  "name": "Dasturchi AI",
+  "description": "Groq AI asosidagi mobil dasturchi agent, real vaqt operatsiyalar konsoli, ZIP/SWB menejer, terminal, Python Telegram bot runner va localhost veb-server.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
